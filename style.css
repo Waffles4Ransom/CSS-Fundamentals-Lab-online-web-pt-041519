@@ -41,8 +41,8 @@ figcaption {
 /*}*/
 
 #details div{
-  display: inline-block;
-  
+  display: block;
+  float: left;
   text-align: center;
   background-color: gainsboro;
 }
