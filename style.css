@@ -22,7 +22,7 @@ nav a {
   background-color: gainsboro;
 }
 
-nav, figcaption {
+nav, figcaption, section {
   text-align: center;
   font-size: small;
 }
