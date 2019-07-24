@@ -27,12 +27,12 @@ figcaption {
   font-size: small;
 }
 
-featured-property {
+#featured-property {
   text-align: center;
   width: 800px;
 }
 
-details{
+#details{
   display: block;
   float: left;
 }
