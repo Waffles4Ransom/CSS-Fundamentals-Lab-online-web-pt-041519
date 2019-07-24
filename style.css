@@ -22,8 +22,12 @@ nav a {
   background-color: gainsboro;
 }
 
-nav, figcaption, section {
+nav, figcaption, {
   text-align: center;
+}
+
+figcaption {
+  font-size: small;
 }
 
 #featured-property p{
