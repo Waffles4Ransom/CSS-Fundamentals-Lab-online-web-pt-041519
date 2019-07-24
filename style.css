@@ -36,9 +36,9 @@ figcaption {
   margin: auto;
 }
 
-#details {
-  align-items: center;
-}
+/*#details {*/
+/*  align-items: center;*/
+/*}*/
 
 #details div{
   display: inline-block;
