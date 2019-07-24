@@ -38,7 +38,8 @@ figcaption {
 }
 
 div {
+  display: inline-block;
   text-align: center;
   background-color: gainsboro;
-  width: 25%;
+  
 }
