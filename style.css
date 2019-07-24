@@ -36,14 +36,11 @@ figcaption {
   margin: auto;
 }
 
-#details {
-  align-items: center;
-}
-
 #details div{
   display: block;
   float: left;
   text-align: center;
   background-color: gainsboro;
+  width: 25%;
 }
 
