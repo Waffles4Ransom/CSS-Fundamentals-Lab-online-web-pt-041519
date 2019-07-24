@@ -36,6 +36,10 @@ figcaption {
   margin: auto;
 }
 
+section {
+  align-items: center;
+}
+
 #details div{
   display: inline-block;
   
