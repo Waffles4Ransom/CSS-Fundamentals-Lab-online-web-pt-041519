@@ -30,16 +30,13 @@ figcaption {
 #featured-property p{
   text-align: center;
   width: 800px;
+  margin: auto;
 }
 
-#details{
+#details div{
   display: block;
   float: left;
-}
-
-div {
-  display: inline-block;
   text-align: center;
   background-color: gainsboro;
-  
 }
+
